@@ -2,7 +2,7 @@
 1. Project Title / Headline
 Sales Performance Dashboard – Power BI
 
-An interactive dashboard that analyzes sales, profit, and customer segments to understand business performance and trends.
+ An interactive dashboard that analyzes sales, profit, and customer segments to understand business performance and trends.
 
 2. Short Description / Purpose
 This Power BI dashboard provides insights into sales performance using the Superstore dataset. It helps users quickly analyze sales trends, regional performance, and product categories to support data-driven decisions.
