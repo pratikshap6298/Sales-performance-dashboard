@@ -61,6 +61,7 @@ Sales increase towards the end of the year.
 
 6.Screenshot 
 
+https://github.com/pratikshap6298/Sales-performance-dashboard/blob/main/dashboard.png
 
 
 
