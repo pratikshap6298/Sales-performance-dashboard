@@ -9,9 +9,11 @@ An interactive dashboard that analyzes sales, profit, and customer segments to u
 This Power BI dashboard provides insights into sales performance using the Superstore dataset. It helps users quickly analyze sales trends, regional performance, and product categories to support data-driven decisions.
 
 ##3. Data Source
+
 Dataset: SalesOrders Dataset
 
 The dataset includes information about:
+
 -Sales transactions
 
 -Product categories and sub-categories
