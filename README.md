@@ -53,8 +53,11 @@ To provide an interactive visualization tool for monitoring sales, profit, and p
 ##5.Insights
 
 -Technology category generated the highest overall sales and profit contribution
+
 -Consumer segment accounted for the largest share of total revenue
+
 -Sales and profit showed significant growth during the final quarter of the year
+
 -Western and Central regions contributed higher sales performance compared to other regions
 
 ##6.Screenshot 
