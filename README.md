@@ -30,7 +30,7 @@ The dataset includes information about:
 
 ###Business Problem
 
-Businesses need a simple way to analyze sales performance across different regions and product categories.
+Businesses require centralized reporting to monitor sales performance, identify profitable categories, and track regional trends for better decision-making.
 
 ###Goal of the Dashboard
 
@@ -52,12 +52,10 @@ To provide an interactive visualization tool for monitoring sales, profit, and p
 
 ##5.Insights
 
--Technology category generates the highest sales.
-
--Consumer segment contributes the largest revenue share.
-
--Sales increase towards the end of the year.
-
+-Technology category generated the highest overall sales and profit contribution
+-Consumer segment accounted for the largest share of total revenue
+-Sales and profit showed significant growth during the final quarter of the year
+-Western and Central regions contributed higher sales performance compared to other regions
 
 ##6.Screenshot 
 
