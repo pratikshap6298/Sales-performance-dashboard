@@ -10,7 +10,7 @@ This Power BI dashboard provides insights into sales performance using the Super
 
 ##3. Data Source
 
-Dataset: SalesOrders Dataset
+Dataset:Superstore dataset
 
 The dataset includes information about:
 
